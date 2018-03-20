@@ -22,7 +22,7 @@ Equipo de trabajo:
 ## Desarrollado para Laboratoria una NUEVA EXPERIENCIA EN EL MANEJO DE TU EQUIPAJE
 **Nuestro proceso de diseño**
 
-![procesodiseño](assets/img/procesodiseño.png)
+![procesodiseño](assets/img/procesodiseño.png)
 
 
 ## DESCUBRIMIENTO E INVESTIGACIÓN
