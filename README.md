@@ -28,6 +28,7 @@ Equipo de trabajo:
 ![proceso](assets/img/proceso.png)
 
 ## DESCUBRIMIENTO E INVESTIGACIÓN
+
 **Planeamiento**
 
 El equipo comenzó la investigación para poder analizar cuáles serían las necesidades de los usuarios, y las metodologías a usar para el reto asignado así como herramientas Analytics.
@@ -55,6 +56,8 @@ Se agruparon todas las observaciones, comentarios de los usuarios en los siguien
 
 
 ![4](assets/img/4.png)
+
+
 **User Persona**
 
 
