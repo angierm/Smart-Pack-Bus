@@ -21,6 +21,7 @@ Equipo de trabajo:
 
 ## Desarrollado para Laboratoria una NUEVA EXPERIENCIA EN EL MANEJO DE TU EQUIPAJE
 
+
 **Nuestro proceso de diseño**
 
 
@@ -54,8 +55,9 @@ Se agruparon todas las observaciones, comentarios de los usuarios en los siguien
 
 
 ![4](assets/img/4.png)
-
 **User Persona**
+
+
 ![5](assets/img/5.png)
 
 ## IDEACIÓN
@@ -77,7 +79,7 @@ MVP
 
 ![analitics](assets/img/analitics.png)
 
-CUSTOMER JOURNEY
+## CUSTOMER JOURNEY
 
 ![9](assets/img/9.png)
 ![10](assets/img/10.png)
