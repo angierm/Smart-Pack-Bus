@@ -20,6 +20,7 @@ Equipo de trabajo:
 ![landingpage](assets/img/landingpage.png)
 
 ## Desarrollado para Laboratoria una NUEVA EXPERIENCIA EN EL MANEJO DE TU EQUIPAJE
+
 **Nuestro proceso de diseño**
 
 
@@ -44,11 +45,14 @@ Google form
 
 Luego de analizar todo la información obtenida, nos dimos cuenta de que de las categorías Información y Reclamos tienen mucha coincidencia entre nuestros usuarios.
 Dentro de la obtención de nuestra problemática:
+
 El número de usuarios que hace uso del portaequipaje del autobús, es menor al esperado; Sin embargo se rescata que los usuarios en su mayoría:
 
  Reconocen el mal manejo del equipaje en los viajes
 
 Se agruparon todas las observaciones, comentarios de los usuarios en los siguientes Insights :
+
+
 ![4](assets/img/4.png)
 
 **User Persona**
@@ -62,7 +66,7 @@ Con nuestro MVP definido, se procede a realizar el prototipo.
 ![7](assets/img/7.png)
 ![prototipo](assets/img/prototipo.png)
 
-Testing
+**Testing**
 
 Se realizaron diferentes testing con el objetivo de mejorar el proceso; Con herramientas como google Analitics y Hotjar
 
