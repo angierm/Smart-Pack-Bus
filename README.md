@@ -50,6 +50,7 @@ El número de usuarios que hace uso del portaequipaje del autobús, es menor al 
 
 Se agruparon todas las observaciones, comentarios de los usuarios en los siguientes Insights :
 ![4](assets/img/4.png)
+
 **User Persona**
 ![5](assets/img/5.png)
 
@@ -62,13 +63,17 @@ Con nuestro MVP definido, se procede a realizar el prototipo.
 ![prototipo](assets/img/prototipo.png)
 
 Testing
+
 Se realizaron diferentes testing con el objetivo de mejorar el proceso; Con herramientas como google Analitics y Hotjar
 
 ![8](assets/img/8.png)
 
 **User Flow**
 MVP
+
 ![analitics](assets/img/analitics.png)
+
 CUSTOMER JOURNEY
+
 ![9](assets/img/9.png)
 ![10](assets/img/10.png)
