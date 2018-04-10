@@ -18,11 +18,17 @@ Equipo de trabajo:
 1 UX Research
 
 Herramientas que se utilizaron en el proyecto
+
 Photoshop
+
 Analitics
+
 Adobe design
+
 ux-research
+
 ux-ui
+
 Instapage 
 
 ![landingpage](assets/img/landingpage.png)
