@@ -25,9 +25,9 @@ Analitics
 
 Adobe design
 
-ux-research
+Ux-Research
 
-ux-ui
+Ux-Ui
 
 Instapage 
 
