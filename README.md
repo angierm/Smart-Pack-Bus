@@ -17,7 +17,7 @@ Equipo de trabajo:
 
 1 UX Research
 
-Herramientas que se utilizaron en el proyecto
+**Herramientas que se utilizaron en el proyecto
 
 Photoshop
 
