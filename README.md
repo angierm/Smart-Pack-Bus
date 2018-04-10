@@ -1,4 +1,4 @@
-# Laboratoria UX
+# Smart Pack
 
 
  **Analis:** Entender y optimizar el journey de tomar
@@ -8,6 +8,10 @@ _Detectar una oportunidad de negocio_
 De la idea al diseño, viviendo todo el journey
 Oportunidad detectada "Smart Pack"
 Proponemos una interfaz para disminuir las quejas y cambiar positivamente la percepción de la marca específicamente en el manejo de equipaje.
+
+
+![landingpage](assets/img/landingpage.png)
+
 
 Equipo de trabajo:
 
@@ -30,8 +34,6 @@ Ux-Research
 Ux-Ui
 
 Instapage 
-
-![landingpage](assets/img/landingpage.png)
 
 ## Desarrollado para Laboratoria una NUEVA EXPERIENCIA EN EL MANEJO DE TU EQUIPAJE
 
