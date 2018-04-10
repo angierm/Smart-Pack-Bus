@@ -1,6 +1,8 @@
 # Smart Pack
 
 
+![smartpack](https://user-images.githubusercontent.com/32881450/38588206-301ddfa6-3d14-11e8-8274-631b98213ab4.png)
+
  **Analis:** Entender y optimizar el journey de tomar
 un camión de CDMX Cuernavaca.
 _Detectar una oportunidad de negocio_
@@ -10,7 +12,6 @@ Oportunidad detectada "Smart Pack"
 Proponemos una interfaz para disminuir las quejas y cambiar positivamente la percepción de la marca específicamente en el manejo de equipaje.
 
 
-![landingpage](assets/img/landingpage.png)
 
 
 Equipo de trabajo:
